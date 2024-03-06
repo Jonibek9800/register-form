@@ -1,0 +1,16 @@
+.registerForm {
+    width: 450px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: transparent;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 5px 5px rgb(116, 104, 104);
+}
+
+.registerFormBtn {
+    padding: 10px 30px;
+    border-radius: 5px;
+    border-color: darkgreen;
+    margin: 10px;
+}
